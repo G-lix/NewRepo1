@@ -1,0 +1,53 @@
+{
+  "$type": "Nodify.Playground.EditorInfo, Nodify.Playground",
+  "Title": "Workflow1",
+  "Id": "6d818c58-e259-4008-82a6-ef046b72360f",
+  "NodeInfos": {
+    "$type": "System.Collections.Generic.List`1[[Nodify.Playground.NodeInfo, Nodify.Playground]], mscorlib",
+    "$values": [
+      {
+        "$type": "Nodify.Playground.NodeInfo, Nodify.Playground",
+        "Id": "0fef080d-f184-472b-9baa-5d134d38089e",
+        "VariableId": "00000000-0000-0000-0000-000000000000",
+        "Title": "Start",
+        "Type": "Nodify.Playground.Nodes.StartNodeViewModel, Nodify.Playground, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "DeviceNodeType": 0,
+        "Icon": "StartNodeIcon",
+        "Comment": "TestBranch",
+        "Location": "121,210",
+        "ActualWidth": 0.0,
+        "ActualHeight": 0.0,
+        "InputGuidDictionary": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[Nodify.Playground.ConnectorInfo, Nodify.Playground]], mscorlib"
+        },
+        "OutputGuidDictionary": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[Nodify.Playground.ConnectorInfo, Nodify.Playground]], mscorlib",
+          "0": {
+            "$type": "Nodify.Playground.ConnectorInfo, Nodify.Playground",
+            "Guid": "6a8d5347-2018-4c24-a2d1-6d11a64e884a",
+            "ConnectorShape": 1,
+            "Name": "NextNode"
+          }
+        }
+      }
+    ]
+  },
+  "ConnectionInfos": {
+    "$type": "System.Collections.Generic.List`1[[Nodify.Playground.ConnectionInfo, Nodify.Playground]], mscorlib",
+    "$values": []
+  },
+  "VariableInfos": {
+    "$type": "System.Collections.Generic.List`1[[System.Object, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "OtherRestoreInfos": {
+    "$type": "<>f__AnonymousType12`3[[Nodify.Playground.WorflowRunMode, Nodify.Playground],[System.Windows.Size, WindowsBase],[System.Windows.Point, WindowsBase]], Nodify.Playground",
+    "WorflowRunMode": 1,
+    "ViewportSize": "0,0",
+    "LocalViewportLocation": "0,0"
+  },
+  "ChildEditors": {
+    "$type": "System.Collections.Generic.List`1[[Nodify.Playground.EditorInfo, Nodify.Playground]], mscorlib",
+    "$values": []
+  }
+}
