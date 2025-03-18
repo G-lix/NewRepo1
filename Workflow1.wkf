@@ -13,7 +13,7 @@
         "Type": "Nodify.Playground.Nodes.StartNodeViewModel, Nodify.Playground, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
         "DeviceNodeType": 0,
         "Icon": "StartNodeIcon",
-        "Comment": "TestBranch",
+        "Comment": "masterBranch",
         "Location": "121,210",
         "ActualWidth": 0.0,
         "ActualHeight": 0.0,
